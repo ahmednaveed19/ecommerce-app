@@ -1,6 +1,6 @@
-# EcommerceApp
+# E-Commerce Web Application
 
-EcommerceApp is a full-stack online store demo built to run locally. Shoppers can browse and filter a product catalog, manage a basket, create an account, and place orders with a Stripe-powered checkout. The API also supports order history and saved shipping addresses.
+E-Commerce Web Application is a full-stack online store demo built to run locally. Shoppers can browse and filter a product catalog, manage a basket, create an account, and place orders with a Stripe-powered checkout. The API also supports order history and saved shipping addresses.
 
 ## Features
 
